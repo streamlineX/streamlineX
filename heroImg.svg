@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1403px" viewBox="0 0 1024 1403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Portrait_LG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="224" height="60"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="224" height="60" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Portrait_LG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Placeholder" transform="translate(312.000000, 202.000000)" stroke="#C8C6C6" stroke-width="4">
+            <rect id="Rectangle" fill="#FFFFFF" x="2" y="2" width="396" height="595.767171"></rect>
+            <path d="M3,3.00500835 L397,595.993322" id="Line" stroke-linecap="round"></path>
+            <path d="M3,2.35329852 L397,596.343282" id="Line-Copy" stroke-linecap="round" transform="translate(200.325545, 299.674145) scale(1, -1) translate(-200.325545, -299.674145) "></path>
+        </g>
+        <g id="Teaser-title" transform="translate(331.000000, 222.702290)" fill="#000000" font-family="SimplonNorm, Simplon Norm" font-size="36" font-weight="normal">
+            <text id="TEASER-TITLE">
+                <tspan x="11.262" y="31">2:3</tspan>
+            </text>
+        </g>
+        <g id="CTA-Shop-Now" transform="translate(400.000000, 471.000000)">
+            <use id="Rectangle-4" stroke="#7C7C7C" mask="url(#mask-2)" stroke-width="8" fill="#FFFFFF" fill-rule="evenodd" stroke-dasharray="16,8" xlink:href="#path-1"></use>
+            <text id="Call-To-Action" font-family="SimplonNorm, Simplon Norm" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="62.2613333" y="38">Shop Now</tspan>
+            </text>
+        </g>
+        <g id="Descriptive-Text-Copy-3" transform="translate(312.000000, 797.000000)">
+            <rect id="Rectangle-Copy" stroke="#C8C6C6" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="396" height="396"></rect>
+            <g id="Teaser-title" transform="translate(74.251497, 74.432836)" fill="#000000" font-family="SimplonNorm, Simplon Norm" font-size="36" font-weight="normal">
+                <text id="TEASER-TITLE">
+                    <tspan x="23.386" y="31">TEASER TITLE</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="CTA" transform="translate(400.000000, 1087.000000)">
+            <rect id="Rectangle-4" stroke="#7C7C7C" stroke-width="4" fill="#FFFFFF" fill-rule="evenodd" x="2" y="2" width="220" height="56"></rect>
+            <text id="Call-To-Action" font-family="SimplonNorm, Simplon Norm" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="40.7213333" y="38">Call-To-Action</tspan>
+            </text>
+        </g>
+        <g id="Pointer-" transform="translate(419.000000, 415.000000)">
+            <path d="M27.0093445,18.0051914 L63,38 L27.0093445,57.9948086 C22.829442,61.1375016 17.6322259,63 12,63 C-1.80711874,63 -13,51.8071187 -13,38 C-13,24.1928813 -1.80711874,13 12,13 C17.6322259,13 22.829442,14.8624984 27.0093445,18.0051914 Z" id="Combined-Shape" fill="#2FAC66" fill-rule="evenodd" transform="translate(25.000000, 38.000000) rotate(90.000000) translate(-25.000000, -38.000000) "></path>
+            <text id="1" font-family="SimplonNorm-Medium, Simplon Norm" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="18.538" y="38">1</tspan>
+            </text>
+        </g>
+        <g id="Pointer-" transform="translate(487.000000, 797.000000)">
+            <path d="M27.0093445,18.0051914 L63,38 L27.0093445,57.9948086 C22.829442,61.1375016 17.6322259,63 12,63 C-1.80711874,63 -13,51.8071187 -13,38 C-13,24.1928813 -1.80711874,13 12,13 C17.6322259,13 22.829442,14.8624984 27.0093445,18.0051914 Z" id="Combined-Shape" fill="#2FAC66" fill-rule="evenodd" transform="translate(25.000000, 38.000000) rotate(90.000000) translate(-25.000000, -38.000000) "></path>
+            <text id="1" font-family="SimplonNorm-Medium, Simplon Norm" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="15.658" y="38">2</tspan>
+            </text>
+        </g>
+        <g id="Descriptive-Text-Copy-3" transform="translate(419.000000, 943.000000)">
+            <rect id="Rectangle-2-Copy" stroke="#C8C6C6" fill="#DFDFDF" x="0.694444444" y="0.5" width="185" height="29"></rect>
+            <rect id="Rectangle-2-Copy-2" stroke="#C8C6C6" fill="#DFDFDF" x="0.694444444" y="42.5" width="185" height="29"></rect>
+            <text id="Teaser-Text" font-family="SimplonNorm, Simplon Norm" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="36.2904444" y="21">Teaser Text</tspan>
+            </text>
+        </g>
+        <text id="34,23-€" font-family="SimplonNorm, Simplon Norm" font-size="29" font-weight="normal" fill="#000000" text-decoration="line-through">
+            <tspan x="404" y="1061">34,23 €</tspan>
+        </text>
+        <text id="10,00-€" font-family="SimplonNorm, Simplon Norm" font-size="29" font-weight="normal" fill="#000000">
+            <tspan x="531.42" y="1061">10,00 €</tspan>
+        </text>
+        <g id="Pointer-" transform="translate(400.000000, 1059.000000)">
+            <path d="M27.0093445,18.0051914 L63,38 L27.0093445,57.9948086 C22.829442,61.1375016 17.6322259,63 12,63 C-1.80711874,63 -13,51.8071187 -13,38 C-13,24.1928813 -1.80711874,13 12,13 C17.6322259,13 22.829442,14.8624984 27.0093445,18.0051914 Z" id="Combined-Shape" fill="#2FAC66" fill-rule="evenodd" transform="translate(25.000000, 38.000000) rotate(90.000000) translate(-25.000000, -38.000000) "></path>
+            <text id="1" font-family="SimplonNorm-Medium, Simplon Norm" font-size="36" font-weight="400" fill="#FFFFFF">
+                <tspan x="15.55" y="38">3</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
