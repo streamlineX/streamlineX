@@ -203,8 +203,8 @@
     justify-content: flex-start;
   }
   .home-text05 {
-    max-width: 500px;
-    text-align: center;
+    max-width: 1000px;
+    text-align: center; 
   }
   .home-features1 {
     display: flex;
